@@ -426,7 +426,7 @@ roller eibc funds
 
 # Henüz bitmedi 😁
 
-### Transfer bölümüne tıklayıp kendi ağınızdan DYM ağına bastığınız token'ları göndermeniz gerekiyor. 
+### Transfer bölümüne tıklayıp kendi ağınızdan DYM ağına oluşturduğunuz token'ları göndermeniz gerekiyor. 
 ### Ben 1000000 token köprüledim, karar sizin.
 ### Bu işlem 1-1.5 saat kadar sürmektedir. Transfer-History bölümünden kontrol edebilirsiniz.
 
