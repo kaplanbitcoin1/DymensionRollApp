@@ -8,7 +8,7 @@
 [Explorer](https://pg.dym.fyi/)<br>
 [Celestia](https://discord.com/invite/YsnTPcSfWQ)<br>
 
-[YeniTopluluk-Kanalım](https://t.me/tigernode)<br>
+[YeniTopluluk-Kanalı](https://t.me/tigernode)<br>
 [Hetzner 20€ cloud kredisi almak için](https://hetzner.cloud/?ref=jKRRgwoTGnE8)<br>
 
 
@@ -420,7 +420,7 @@ roller eibc funds
 
 
 
-# ÖNEMLİ NOT: Eğer pool kısmına eklediğiniz likiditeyi haddinden fazla geri çekerseniz RollApp durur ve 🧨 🧨 🧨
+* ÖNEMLİ NOT: Eğer pool kısmına eklediğiniz likiditeyi haddinden fazla geri çekerseniz RollApp durur ve 🧨 🧨 🧨
 
 * Yaklaşık 3-4 saattir sorun yaşamamanız adına repo'yu en ince ayrıntısına kadar hazırlamaya çalıştım. Bir yıldız bırakırsanız sevinirim 🐅
 
