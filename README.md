@@ -69,6 +69,13 @@
 
 <img width="1536" alt="6" src="https://github.com/user-attachments/assets/ed0ab1f1-90e4-4773-a82a-d14ee796550e">
 
+
+
+# Dymension RoolApp'in kullandığı portlar bu şekilde. Önerim yeni bir sunucuya kurulum yapmanız yönünde.
+
+<img width="734" alt="Ekran Resmi 2024-09-30 18 17 55" src="https://github.com/user-attachments/assets/193446f9-1e0c-4de5-a798-204d2aadad71">
+
+
 ### Çayınızı, kahvenizi aldıysanız artık kuruluma başlayabiliriz 🧨
 
 
