@@ -22,9 +22,11 @@
 * Etkinlik sonunda performansa bakılabilir, -öne geçmek için- RollApp'i iyi bir sunucuda çalıştırmanızı öneririm.
 
 
-### Öncelikle [Platform'u](https://playground.dymension.xyz/) kullanabilmek için siteye gidip Mainnet ağında en az 5 DYM stake ediyoruz. (DYM ağında EVM adresinize deposit edeceksiniz)
+### Öncelikle [Platform'u](https://playground.dymension.xyz/) kullanabilmek için siteye gidip Mainnet ağında en az 5 DYM stake ediyoruz.
+### (DYM ağında EVM adresinize deposit edeceksiniz)
 
 
+# Siteye giriş sağladıktan sonra Dymension discord kanalından PlayGround Faucet kısmından cüzdanınıza test tokenları almalısınız. İşlemlerde yaklaşık 40 adet token gerekiyor. 
 
 # Sunucu güncelleyelim
 
