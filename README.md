@@ -306,3 +306,19 @@ roller rollapp setup
 
 <img width="1446" alt="14" src="https://github.com/user-attachments/assets/41eb3137-ad6d-4470-acfd-598a97c4a42b">
 
+
+# Şimdi RollApp'i çalıştırmaya başlayabiliriz. Sırasıyla:
+
+
+```
+roller rollapp services load
+```
+
+```
+roller rollapp services start
+```
+
+# Status kontrol için. 
+```
+roller rollapp status
+```
