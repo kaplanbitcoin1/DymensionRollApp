@@ -408,3 +408,12 @@ roller eibc funds
 
 <img width="1536" alt="19" src="https://github.com/user-attachments/assets/22e07c6c-8900-4ed0-a73b-0d317d6e80b0">
 
+
+
+# Henüz bitmedi 😁
+
+### Transfer bölümünden kendi ağınızdan DYM ağına bastığınız token'ları göndermeniz gerekiyor. Ben 1Milyon token köprüledim, karar sizin.
+### Bu işlem 1-1.5 saat kadar sürmekte haberiniz olsun.
+
+
+
