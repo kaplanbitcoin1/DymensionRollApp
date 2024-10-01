@@ -171,4 +171,9 @@ go version
 
 # Roller kuralım
 
+```
+wget https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh 
+```
+
+
 
