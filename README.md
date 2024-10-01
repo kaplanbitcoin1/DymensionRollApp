@@ -447,7 +447,7 @@ roller eibc funds
 ### Artık sonunda listedeyiz 🐅 
 
 
-<img width="1201" alt="liste" src="https://github.com/user-attachments/assets/db3b6315-faa8-403a-b797-1e06567da964">
+<img width="1384" alt="sıralama" src="https://github.com/user-attachments/assets/89b5e66e-3f93-418a-a219-a66543e136ba">
 
 
 
