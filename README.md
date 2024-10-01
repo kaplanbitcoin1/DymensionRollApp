@@ -348,3 +348,13 @@ roller relayer setup
 
 <img width="970" alt="17" src="https://github.com/user-attachments/assets/1842650f-dc3e-45a3-8d0f-84929870dc3a">
 
+
+# Relayer service başlatalım
+
+```
+roller relayer services load
+```
+
+```
+roller relayer services start
+```
