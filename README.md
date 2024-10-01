@@ -470,7 +470,7 @@ roller eibc funds
 
 * Faydalı olabilecek birkaç işlem
 
-# Restart işlemleri
+### Restart işlemleri
 
 ```
 roller rollapp services restart
@@ -485,7 +485,7 @@ roller eibc services restart
 ```
 
 
-# Loglar için
+### Loglar için
 
 
 ```
