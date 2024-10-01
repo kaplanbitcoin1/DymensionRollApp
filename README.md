@@ -387,3 +387,14 @@ roller eibc fulfill rollapps set SENİNROLLAPPID 0.01
 roller eibc fulfill denoms set TOKENSEMBOL 0.01
 ```
 
+# eIBC'yi service ile çalıştıralım
+
+```
+roller eibc services load
+```
+
+```
+roller eibc services start
+```
+
+
