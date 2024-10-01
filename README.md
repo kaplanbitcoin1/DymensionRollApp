@@ -438,7 +438,7 @@ roller eibc funds
 
 
 ### Liquidity bölümünden Pool kısmına gelelim. Create New Pool diyoruz. 
-### Görseldeki gibi Pool ekleyelim. Ben 15 DYM karşılığında 10000 BER kullandım. Tercih sizin.
+### Görseldeki gibi Pool ekleyelim. Ben 15 DYM karşılığında 10000 BER kullandım.
 
 <img width="535" alt="pool" src="https://github.com/user-attachments/assets/d08d855e-dab6-4508-b7f3-07685fff27a2">
 
