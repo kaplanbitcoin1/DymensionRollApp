@@ -40,6 +40,10 @@
 
 <img width="1536" alt="1" src="https://github.com/user-attachments/assets/a746c225-6940-40f2-821f-5622b4716e84">
 
+# Bir sonraki aşamada Token Symbol kısmını 3 harf olacak şekilde doldurun.
+### Diğer parametreleri değiştirmiyoruz.
+
+<img width="1536" alt="2" src="https://github.com/user-attachments/assets/47fbd610-ab67-4249-aa78-a00bcb5da976">
 
 
 
