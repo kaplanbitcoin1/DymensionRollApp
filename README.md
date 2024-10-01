@@ -1,3 +1,5 @@
+<img width="1517" alt="Dymension" src="https://github.com/user-attachments/assets/b057fe61-7f3a-471e-ac24-796ff52cc480">
+
 
 
 [Website](https://dymension.xyz/)<br>
