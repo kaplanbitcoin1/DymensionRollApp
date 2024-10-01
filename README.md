@@ -464,3 +464,23 @@ roller eibc funds
 ### Sunucu ve RollApp bilgilerini Repo için paylaşan  [FaroHanedanı'na](https://t.me/imgelem0) teşekkür ederim.
 
 ### Bugün yeni bir telegram topluluğu kurdum ve desteklerinizi bekliyorum. [TIGERNODE](https://t.me/tigernode) 🐅
+
+
+
+
+### Faydalı olabilecek birkaç işlem
+
+
+```
+roller rollapp services restart
+```
+
+```
+roller relayer services restart
+```
+
+```
+roller eibc services restart
+```
+
+
