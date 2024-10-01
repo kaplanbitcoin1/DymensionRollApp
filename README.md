@@ -23,10 +23,14 @@
 
 
 ### Öncelikle [Platform'u](https://playground.dymension.xyz/) kullanabilmek için siteye gidip Mainnet ağında en az 5 DYM stake ediyoruz.
-### (DYM ağında EVM adresinize deposit edeceksiniz)
+### (DYM ağında EVM adresinize deposit edeceksiniz) - Keplr cüzdan kullanabilirsiniz.
 
 
-# Siteye giriş sağladıktan sonra Dymension discord kanalından PlayGround Faucet kısmından cüzdanınıza test tokenları almalısınız. İşlemlerde yaklaşık 40 adet token gerekiyor. 
+# Siteye giriş sağladıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına giriş yapıpi PlayGround Faucet kısmından cüzdanınıza test tokenları almalısınız.
+
+# İşlemlerde yaklaşık 40 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
+
+
 
 # Sunucu güncelleyelim
 
