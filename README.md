@@ -273,6 +273,12 @@ curl https://get.telebit.io/ | bash
 # Önemli: Cüzdan adreslerinize asla sizden istenmeden token göndermeyin. Yine 🧨🧨 😁
 
 
+# Kurulumu başlatıp `Sequencer` seçiyoruz.
+
+```
+roller rollapp setup
+```
+
 
 
 
