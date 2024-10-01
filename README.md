@@ -375,7 +375,7 @@ roller eibc init
 
 # Şimdi sırasıyla
 
-### ROLLAPPID kısmını kendi bilginizle değiştirin 
+### ROLLAPPID kısmını kendi bilginizle değiştirin 
 
 ```
 roller eibc fulfill rollapps set SENİNROLLAPPID 0.01
