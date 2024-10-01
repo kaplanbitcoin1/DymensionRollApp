@@ -26,7 +26,9 @@
 ### (DYM ağında EVM adresinize deposit edeceksiniz) - Keplr cüzdan kullanabilirsiniz.
 
 
-### Siteye giriş sağladıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına giriş yapıp PlayGround Faucet kısmından cüzdanınıza DYM uzantılı adresinize test tokenları almalısınız.
+### Siteye giriş yaptıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına katılalım. 
+# (Bekleme bölümünü kendinizi tanıtarak geçmeniz gerekiyor.) 
+### PlayGround Faucet kısmından cüzdanınıza DYM uzantılı adresinizi yazarak test tokenları alabilirsiniz.
 
 ### İşlemlerde yaklaşık 35 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
 
