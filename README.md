@@ -31,9 +31,9 @@
 
 ### (Bekleme bölümünü kendinizi tanıtarak geçmeniz gerekir.) 
 
-### PlayGround Faucet kısmından cüzdanınıza DYM uzantılı adresinizi yazarak test tokenları alabilirsiniz.
+### PlayGround Faucet bölümüne DYM uzantılı adresinizi yazarak test tokenları alabilirsiniz.
 
-### İşlemlerde yaklaşık 35 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
+### İşlemlerde yaklaşık 35-50 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
 
 
 # Token bulduysak eğer hadi öyleyse başlayalım. 
