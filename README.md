@@ -358,3 +358,16 @@ roller relayer services load
 ```
 roller relayer services start
 ```
+
+
+# Kurulum aşamasında sona geldik. Şimdi eIBC kuralım.
+
+```
+roller eibc init
+```
+
+
+# Cüzdan kelimelerini kaydedin ve adresinize 2 adet DYM gönderin. Explorer ile check edin
+
+
+<img width="1168" alt="18" src="https://github.com/user-attachments/assets/2a6ff9b3-11d7-47f3-b32b-ff1774afd3ed">
