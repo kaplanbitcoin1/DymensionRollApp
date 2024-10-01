@@ -300,8 +300,8 @@ roller rollapp setup
 <img width="1065" alt="13" src="https://github.com/user-attachments/assets/bbc43f86-40d4-46a5-83e6-a584678e2f65">
 
 
-# Son olarak verilen Tia adresinize token gönderin ve Mocha [Explorer](https://mocha.celenium.io/)<br> üzerinden gelip gelmediğini kontrol edin.
-# Kontrol sağladıktan sonra eğer token gelmişse Y tuşuna tıklayın. Bu kısmı da hallettik 😏
+### Son olarak verilen Tia adresinize token gönderin ve Mocha [Explorer](https://mocha.celenium.io/)<br> üzerinden gelip gelmediğini kontrol edin.
+### Kontrol sağladıktan sonra eğer token gelmişse Y tuşuna tıklayın. Bu kısmı da hallettik 😏
 
 
 <img width="1446" alt="14" src="https://github.com/user-attachments/assets/41eb3137-ad6d-4470-acfd-598a97c4a42b">
