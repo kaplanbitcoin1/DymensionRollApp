@@ -432,13 +432,13 @@ roller eibc funds
 <img width="1518" alt="20" src="https://github.com/user-attachments/assets/8439333f-794b-493e-8a62-b768c0579ebb">
 
 
-# Transfer işlemi sonra History bölümünde görseldeki gibi Success aldıysanız Pool eklememiz gerekiyor.
+### Transfer işlemi sonra History bölümünde görseldeki gibi Success aldıysanız Pool eklememiz gerekiyor.
 
 <img width="1536" alt="transfer" src="https://github.com/user-attachments/assets/5516074f-a108-4885-a087-09aedc674b8a">
 
 
-# Liquidity bölümünden Pool kısmına gelelim. Create New Pool diyoruz. 
-# Görseldeki gibi Pool ekleyelim. Ben 15 DYM karşılığında 10000 BER kullandım. Tercih sizin.
+### Liquidity bölümünden Pool kısmına gelelim. Create New Pool diyoruz. 
+### Görseldeki gibi Pool ekleyelim. Ben 15 DYM karşılığında 10000 BER kullandım. Tercih sizin.
 
 <img width="535" alt="pool" src="https://github.com/user-attachments/assets/d08d855e-dab6-4508-b7f3-07685fff27a2">
 
