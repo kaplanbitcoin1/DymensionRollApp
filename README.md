@@ -14,7 +14,8 @@
 | RAM | 16 GB RAM |
 | Storage | 160 GB Nvme |
 
-### Sitem özellikleriniz ne kadar yüksek olursa o kadar iyi diye düşünüyorum. Sunucunuz Dedicated olursa tadından yenmez. Etkinlik sonunda performansa bakılırsa öne geçmek için iyi bir sunucuda çalıştırmanızı öneririm.
+* NOT: Sistem özellikleriniz ne kadar yüksek olursa o kadar iyidir diye düşünüyorum. Sunucunuz Dedicated olursa tadından yenmez.
+* Etkinlik sonunda performansa bakılırsa öne geçmek için RollApp'i iyi bir sunucuda çalıştırmanızı öneririm.
 
 
 # Sunucu güncelleyelim
