@@ -47,9 +47,9 @@ sudo systemctl daemon-reload
 ```
 
 
-# Telebiti tekrar kuralım ve Mail ile doğrulayalım.
+### Telebiti tekrar kuralım ve Mail ile doğrulayalım.
 
-# Bu işlemler sonrası RPC-Değiştirme bölümündeki işlemleri yapmamız yeterli.
+### Bu işlemler sonrası RPC-Değiştirme bölümündeki işlemleri yapmamız yeterli.
 
-# Yeşil yakması 2-3 saati buluyor, sabredelim. 🐅 
+### Yeşil yakması 2-3 saati buluyor, sabredelim. 🐅 
 
