@@ -329,4 +329,22 @@ roller rollapp status
 <img width="1086" alt="15" src="https://github.com/user-attachments/assets/be7ba2dc-f86c-4c30-ad65-41dcb819ba08">
 
 
+# Relayer kurulum
+
+
+```
+roller relayer setup
+```
+
+
+# Bize Relayer adreslerimiz verildi. Bunları kaydetmeyi unutmayın.
+### Relayer Hub Key adresinize 21 adet DYM gönderin ve Explorer üzerinden gelip gelmediğini kontrol edin.
+# Eğer token geldiyse `Y` tuşuna basın. 
+
+<img width="1221" alt="16" src="https://github.com/user-attachments/assets/d82781ab-907e-443f-82b3-4ff9ddbc368a">
+
+
+# Kanal bulunamadı uyarısı verecek. IBC kanalı oluşturmak için `Y` tuşuna tıklayın, bu bölüm de tamamdır 🐅
+
+<img width="970" alt="17" src="https://github.com/user-attachments/assets/1842650f-dc3e-45a3-8d0f-84929870dc3a">
 
