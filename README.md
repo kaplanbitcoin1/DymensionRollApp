@@ -424,6 +424,6 @@ roller eibc funds
 
 * Yaklaşık 3-4 saattir sorun yaşamamanız adına repo'yu en ince ayrıntısına kadar hazırlamaya çalıştım. Bir yıldız bırakırsanız sevinirim 🐅
 
-### Sunucu ve RollApp bilgilerini Repo için paylaşan  [Faro-Hanedanı'na](https://t.me/imgelem0) teşekkür ederim.
+### Sunucu ve RollApp bilgilerini Repo için paylaşan  [FaroHanedanı'na](https://t.me/imgelem0) teşekkür ederim.
 
 # Bugün yeni bir telegram topluluğu kurdum ve desteklerinizi bekliyorum. [TIGERNODE](https://t.me/tigernode) 🐅
