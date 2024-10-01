@@ -142,6 +142,10 @@ newgrp docker
 
 # Şimdi GO kuruyoruz
 
+```
+ver="1.23.0"
+```
+
 
 ```
 cd $HOME
