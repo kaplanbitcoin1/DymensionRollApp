@@ -26,7 +26,7 @@
 ### (DYM ağında EVM adresinize deposit edeceksiniz) - Keplr cüzdan kullanabilirsiniz.
 
 
-### Siteye giriş sağladıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına giriş yapıpi PlayGround Faucet kısmından cüzdanınıza test tokenları almalısınız.
+### Siteye giriş sağladıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına giriş yapıp PlayGround Faucet kısmından cüzdanınıza DYM uzantılı adresinize test tokenları almalısınız.
 
 ### İşlemlerde yaklaşık 35 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
 
@@ -52,6 +52,7 @@
 <img width="1536" alt="3" src="https://github.com/user-attachments/assets/7884d740-a8cc-469b-a1f1-8f53bb7c8f53">
 
 
+# Add Account + Stake ettiğiniz 0x uzantılı Dym adresini yazalım ve Remaining Supply kısmına tıklayıp save diyelim.
 
 <img width="1273" alt="4" src="https://github.com/user-attachments/assets/b8720080-6337-4186-850e-24b97e977cee">
 
