@@ -443,6 +443,18 @@ roller eibc funds
 <img width="535" alt="pool" src="https://github.com/user-attachments/assets/d08d855e-dab6-4508-b7f3-07685fff27a2">
 
 
+### Artık sonunda listedeyiz 🐅 
+
+
+<img width="1201" alt="liste" src="https://github.com/user-attachments/assets/db3b6315-faa8-403a-b797-1e06567da964">
+
+
+
+### Platformu kurcalayıp DYM Sponsored kısmında işlem alabilirsiniz. 
+### Diğer RollApp'lar ile etkileşime geçebilirsiniz. 
+### Platformun sunduğu özellikleri kullanmak yararlı olabilir.
+
+
 
 
 * ÖNEMLİ NOT: Eğer pool kısmına eklediğiniz likiditeyi haddinden fazla geri çekerseniz RollApp durur ve 🧨 🧨 🧨
