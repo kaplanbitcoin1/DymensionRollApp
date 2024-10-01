@@ -264,7 +264,9 @@ curl https://get.telebit.io/ | bash
 <img width="466" alt="10" src="https://github.com/user-attachments/assets/ff714ce7-98e1-46a5-950d-59de04f4a29a">
 
 
+# Şimdi Sequencer kurulumuna geçiyoruz. Bu işlemler çok önemli. Hata yaparsanız bir daha RollApp hiç çalışmayabilir.
 
+### Öncelikle her zaman y/n soruları sorulacak. Bu sorularda sadece verilen tuşu kullanın. Enter'a tıklarsanız RollApp bir daha asla çalışmayabilir. (Denendi) 😏
 
 
 
