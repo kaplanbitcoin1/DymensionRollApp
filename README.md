@@ -470,6 +470,7 @@ roller eibc funds
 
 ### Faydalı olabilecek birkaç işlem
 
+# Restart işlemleri
 
 ```
 roller rollapp services restart
@@ -483,4 +484,19 @@ roller relayer services restart
 roller eibc services restart
 ```
 
+
+# Loglar için
+
+
+```
+journalctl -fu relayer
+```
+
+```
+journalctl -fu rollapp
+```
+
+```
+journalctl -fu eibc
+```
 
