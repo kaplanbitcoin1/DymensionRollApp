@@ -371,3 +371,19 @@ roller eibc init
 
 
 <img width="1168" alt="18" src="https://github.com/user-attachments/assets/2a6ff9b3-11d7-47f3-b32b-ff1774afd3ed">
+
+
+# Şimdi sırasıyla
+
+### ROLLAPPID kısmını kendi bilginizle değiştirin 
+
+```
+roller eibc fulfill rollapps set SENİNROLLAPPID 0.01
+```
+
+### TOKENSEMBOL bölümü kendi bilginizle değiştirin. Hatırlarsanız ben kurulumda aşamasında `BER` olarak belirlemiştim.
+
+```
+roller eibc fulfill denoms set TOKENSEMBOL 0.01
+```
+
