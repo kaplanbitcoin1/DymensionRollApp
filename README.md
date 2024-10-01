@@ -62,7 +62,7 @@
 <img width="1273" alt="4" src="https://github.com/user-attachments/assets/b8720080-6337-4186-850e-24b97e977cee">
 
 
-### Gerenate ettikten sonra son olarak Permissionless bölümü aktif olacak Set kısmından kurulumu sağlayalım.
+### Gerenate ettikten sonra son olarak Permissionless bölümü aktif olacak şekilde Set kısmından kurulumu sağlayalım.
 
 <img width="1504" alt="5" src="https://github.com/user-attachments/assets/8bffce1a-cbe7-4ed2-aee7-085dde4f298f">
 
@@ -109,7 +109,7 @@ sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyring
 sudo chmod a+r /etc/apt/keyrings/docker.asc
 ```
 
-# Repoyu Apt kaynaklarını ekleyip güncelleme yapalım
+# Repoyu Apt kaynaklarına ekleyip güncelleme yapalım
 
 ```
 echo \
