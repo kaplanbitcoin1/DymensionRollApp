@@ -399,6 +399,11 @@ roller eibc services load
 roller eibc services start
 ```
 
+# eIBC bakiye kontrolü için
+
+```
+roller eibc funds
+```
 # Sanırım artık yeşil yakıyor olmalısın 🐅 😁
 
 <img width="1536" alt="19" src="https://github.com/user-attachments/assets/22e07c6c-8900-4ed0-a73b-0d317d6e80b0">
