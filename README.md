@@ -245,5 +245,27 @@ curl https://get.telebit.io/ | bash
 
 <img width="762" alt="9" src="https://github.com/user-attachments/assets/70403eaf-16b9-4451-b0bf-614633e09988">
 
+# Endpoint'leri oluşturmak için: 
+
+```
+~/telebit http 1317 rest
+~/telebit http 8545 evm
+~/telebit http 26657 rpc
+```
+
+# Sisteminize kaydetmek için:
+
+```
+~/telebit save
+```
+
+# Verilen bilgiler sizin adreslerinizdir. Görseldeki gibi düzenlemenizi öneririm. Bu adresleri bir süre sonra kullanacağız. 
+
+<img width="466" alt="10" src="https://github.com/user-attachments/assets/ff714ce7-98e1-46a5-950d-59de04f4a29a">
+
+
+
+
+
 
 
