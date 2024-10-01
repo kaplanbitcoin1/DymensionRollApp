@@ -52,7 +52,7 @@
 <img width="1536" alt="3" src="https://github.com/user-attachments/assets/7884d740-a8cc-469b-a1f1-8f53bb7c8f53">
 
 
-# Add Account + Stake ettiğiniz 0x uzantılı Dym adresini yazalım ve Remaining Supply kısmına tıklayıp save diyelim.
+# Add Account diyerek stake ettiğiniz 0x uzantılı Dym adresini yazalım ve Remaining Supply kısmına tıklayıp kaydedelim.
 
 <img width="1273" alt="4" src="https://github.com/user-attachments/assets/b8720080-6337-4186-850e-24b97e977cee">
 
