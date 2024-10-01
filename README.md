@@ -35,9 +35,9 @@
 ### İşlemlerde yaklaşık 35 adet token kullanacağız. Haftalık 60 token talep etme hakkınız var.
 
 
-# Token bulduktan sonra işlemlere başlayalım. 
+# Token bulduysak eğer hadi öyleyse başlayalım. 
 
-### Deploy a RollApp kısmına tıklayıp ilgili kısımları dolduruyoruz.
+### Deploy a RollApp kısmına tıklayıp ilgili bölümleri dolduralım. X, Website vb. gibi.
 
 * Domain'i uzun tutalım yoksa 20 DYM isteyecektir. RollApp id kısmına dokunmayın, Domain yazınca otomatik oluşacaktır.
 * Diğer bilgierinizi de doldurduktan sonra Register edelim. 
