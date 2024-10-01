@@ -52,7 +52,7 @@
 <img width="1536" alt="2" src="https://github.com/user-attachments/assets/47fbd610-ab67-4249-aa78-a00bcb5da976">
 
 
-# Add/Edit Accounts kısmına tıklayalım
+### Add/Edit Accounts kısmına tıklayalım
 
 <img width="1536" alt="3" src="https://github.com/user-attachments/assets/7884d740-a8cc-469b-a1f1-8f53bb7c8f53">
 
