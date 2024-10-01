@@ -287,7 +287,8 @@ roller rollapp setup
 
 
 
-# Bu kısımda Telebit bilgilerimizi gireceğiz. Boşluk olmamalı yoksa hata verir. (Denendi) 😁
+# Bu kısımda Telebit bilgilerimizi gireceğiz.
+# Boşluk olmamalı yoksa hata verir. (Denendi) 😁
 # Bilgileri girip onay aldıktan sonra görseldeki gibi `N` tuşuna basıyoruz
 
 
