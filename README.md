@@ -53,6 +53,8 @@
 
 
 
+<img width="1273" alt="4" src="https://github.com/user-attachments/assets/b8720080-6337-4186-850e-24b97e977cee">
+
 
 # Sunucu güncelleyelim
 
