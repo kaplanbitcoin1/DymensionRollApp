@@ -22,7 +22,7 @@
 * Etkinlik sonunda performansa bakılabilir, -öne geçmek için- RollApp'i iyi bir sunucuda çalıştırmanızı öneririm.
 
 
- # Öncelikle [Platform'u](https://playground.dymension.xyz/) kullanabilmek için siteye gidip Mainnet ağında en az 5 DYM stake ediyoruz. (DYM ağında EVM adresinize deposit edeceksiniz)
+### Öncelikle [Platform'u](https://playground.dymension.xyz/) kullanabilmek için siteye gidip Mainnet ağında en az 5 DYM stake ediyoruz. (DYM ağında EVM adresinize deposit edeceksiniz)
 
 
 
