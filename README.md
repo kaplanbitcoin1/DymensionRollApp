@@ -395,8 +395,8 @@ roller eibc init
 roller eibc fulfill rollapps set SENİNROLLAPPID 0.01
 ```
 
-# TOKENSEMBOL bölümünü kendi bilginizle değiştirin.
-# Hatırlarsanız ben kurulum aşamasında `BER` olarak belirlemiştim.
+### TOKENSEMBOL bölümünü kendi bilginizle değiştirin.
+### Hatırlarsanız ben kurulum aşamasında `BER` olarak belirlemiştim.
 
 
 ```
