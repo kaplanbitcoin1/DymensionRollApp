@@ -181,7 +181,7 @@ wget https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh
 nano install.sh
 ```
 
-# Buradaki komutu install.sh içerisine yapıştırıp CommandXCommandYEnter diyelim.
+### Aşağıdaki komutu install.sh içerisine yapıştırıp CommandXCommandYEnter diyelim.
 
 ```
  #!/bin/bash 
