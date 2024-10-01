@@ -273,7 +273,10 @@ curl https://get.telebit.io/ | bash
 # Önemli: Cüzdan adreslerinize asla sizden istenmeden token göndermeyin. Yine 🧨🧨 😁
 
 
-# Kurulumu başlatıp `Sequencer` seçiyoruz.
+# Kurulumu başlatıp `Sequencer` seçiyoruz ve token adedi gösterecek. 
+# 1 defa Enter'a basıyoruz ve size Sequencer adresinizi verecek. 
+# Buraya 11 adet Dym gönderin ve Explorer üzerinden gelip gelmediğini kontrol edin. 
+# Token geldiyse sunucuya dönüp sadece `Y` tuşuna basın.
 
 ```
 roller rollapp setup
