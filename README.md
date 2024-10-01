@@ -468,7 +468,7 @@ roller eibc funds
 
 
 
-### Faydalı olabilecek birkaç işlem
+### Faydalı olabilecek birkaç işlem
 
 # Restart işlemleri
 
