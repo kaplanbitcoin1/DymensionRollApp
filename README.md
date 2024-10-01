@@ -26,7 +26,7 @@
 ### (DYM ağında EVM adresinize deposit edeceksiniz) - Keplr cüzdan kullanabilirsiniz.
 
 
-### Siteye giriş yaptıktan sonra Dymension [Discord](https://discord.com/invite/dymension)<br> kanalına katılalım. 
+### Siteye giriş yaptıktan sonra Dymension [Discord](https://discord.com/invite/dymension)kanalına katılalım. 
 # (Bekleme bölümünü kendinizi tanıtarak geçmeniz gerekiyor.) 
 ### PlayGround Faucet kısmından cüzdanınıza DYM uzantılı adresinizi yazarak test tokenları alabilirsiniz.
 
