@@ -17,7 +17,7 @@
 | Storage | 160 GB Nvme |
 
 * NOT: Sistem özellikleriniz ne kadar yüksek olursa o kadar iyidir diye düşünüyorum. Sunucunuz Dedicated olursa tadından yenmez.
-* Etkinlik sonunda performansa bakılırsa öne geçmek için RollApp'i iyi bir sunucuda çalıştırmanızı öneririm.
+* Eğer etkinlik sonunda performansa bakılırsa, -öne geçmek için- RollApp'i iyi bir sunucuda çalıştırmanızı öneririm.
 
 
 # Sunucu güncelleyelim
