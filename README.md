@@ -234,8 +234,8 @@ roller rollapp init
 
 
 
-# Rpc, Api ve Evm iletişimi için Telebit kuralım.
-### Mail adresi yazdıktan sonra size bir şifre verecek.
+# Şimdi Rpc, Api ve Evm iletişimi için Telebit kuracağız.
+### Mail adresi yazdıktan sonra size bir şifre verilecek.
 ### Maili kontrol edelim ve VPN ile linke giriş yapalım. Ardından bize verilen şifreyi yazalım ve onaylayalım. 
 ### Sunucuya geri dönüp Enter diyelim. 
 
