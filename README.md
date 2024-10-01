@@ -183,7 +183,7 @@ nano install.sh
 
 ### Aşağıdaki komutu install.sh içerisine yapıştırıp CommandXCommandYEnter diyelim.
 
-```
+```shell
  #!/bin/bash 
 set -eOS=$(uname -s) 
 ARCH=$(uname -m) 
