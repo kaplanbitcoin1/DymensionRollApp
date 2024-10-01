@@ -234,12 +234,16 @@ roller rollapp init
 
 
 
-### Rpc, Api ve Evm iletişimi için Telebit kuralım. 
-# Mail adresi yazdıktan sonra size bir şifre verecek.
-# Mailinizi kontrol edin ve VPN ile linke giriş yapın. Sunucunuzda size verilen şifreyi yazın ve onaylayın.
+# Rpc, Api ve Evm iletişimi için Telebit kuralım.
+### Mail adresi yazdıktan sonra size bir şifre verecek.
+### Maili kontrol edelim ve VPN ile linke giriş yapalım. Ardından bize verilen şifreyi yazalım ve onaylayalım. 
+### Sunucuya geri dönüp Enter diyelim. 
 
 ```
 curl https://get.telebit.io/ | bash
 ```
+
+<img width="762" alt="9" src="https://github.com/user-attachments/assets/70403eaf-16b9-4451-b0bf-614633e09988">
+
 
 
