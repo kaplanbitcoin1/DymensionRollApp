@@ -269,6 +269,9 @@ curl https://get.telebit.io/ | bash
 ### Öncelikle her zaman y/n soruları sorulacak. 
 ### Bu sorularda sadece verilen tuşları kullanın. Enter'a tıklarsanız. 🧨🧨 (Denendi) 😏
 
+# Önemli: Cüzdan adreslerinize asla sizden istemeden token göndermeyin. Yine 🧨🧨 😁
+
+
 
 
 
