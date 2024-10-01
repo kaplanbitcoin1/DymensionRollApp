@@ -5,7 +5,7 @@
 [Website](https://dymension.xyz/)<br>
 [Discord](https://discord.com/invite/dymension)<br>
 [Docs](https://docs.dymension.xyz/)<br>
-[YeniTopluluk--Kanalım](https://t.me/tigernode)<br>
+[YeniTopluluk-Kanalım](https://t.me/tigernode)<br>
 [Hetzner 20€ cloud kredisi almak için](https://hetzner.cloud/?ref=jKRRgwoTGnE8)<br>
 
 
@@ -24,6 +24,18 @@
 
 ```
 sudo apt update && sudo apt upgrade -y
+```
+
+# Gerekli paketleri yükleyelim
+
+```
+sudo apt install -y build-essential clang curl aria2 wget tar jq libssl-dev pkg-config make
+```
+
+# Docker sürüm
+
+```
+export DOCKER_API_VERSION=1.41
 ```
 
 
