@@ -228,4 +228,4 @@ roller rollapp init
 
 <img width="594" alt="7" src="https://github.com/user-attachments/assets/34e67398-d20f-410f-976c-09a7090ae089">
 
-
+# Uzun bir kurulum sürecinin ardından başardın ✅ Keylerimizi kaydedelim. 
