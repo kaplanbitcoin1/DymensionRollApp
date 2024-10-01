@@ -65,7 +65,12 @@
 
 <img width="1504" alt="5" src="https://github.com/user-attachments/assets/8bffce1a-cbe7-4ed2-aee7-085dde4f298f">
 
-# Sonunda RollApp profilimiz oluştu.
+# Sonunda RollApp profilimiz oluştu 😁
+
+<img width="1536" alt="6" src="https://github.com/user-attachments/assets/ed0ab1f1-90e4-4773-a82a-d14ee796550e">
+
+# Çayınızı, kahvenizi aldıysanız artık kuruluma başlayabiliriz 🧨
+
 
 # Sunucu güncelleyelim
 
