@@ -198,3 +198,8 @@ sudo curl -L "$TGZ_URL" --progress-bar | sudo tar -xz -C "/tmp/roller_tmp"echo "
 sudo mv "/tmp/roller_tmp/roller" "$ROLLER_BIN_PATH"sudo chmod +x "$ROLLER_BIN_PATH" 
 sudo rm -rf "/tmp/roller_tmp"echo "💈 Installation complete! You can now use roller from your terminal."
 ```
+
+# Scprict'i çalıştıralım
+```
+bash install.sh
+```
