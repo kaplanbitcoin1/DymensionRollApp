@@ -5,9 +5,7 @@
 [Website](https://dymension.xyz/)<br>
 [Discord](https://discord.com/invite/dymension)<br>
 [Docs](https://docs.dymension.xyz/)<br>
-
-
-[YeniTopluluk-Kanalım](https://t.me/tigernode)<br>
+[YeniTopluluk--Kanalım](https://t.me/tigernode)<br>
 [Hetzner 20€ Cloud kredisi almak için](https://hetzner.cloud/?ref=jKRRgwoTGnE8)<br>
 
 
