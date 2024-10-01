@@ -419,3 +419,11 @@ roller eibc funds
 <img width="1518" alt="20" src="https://github.com/user-attachments/assets/8439333f-794b-493e-8a62-b768c0579ebb">
 
 
+
+# ÖNEMLİ NOT: Eğer pool kısmına eklediğiniz likiditeyi haddinden fazla geri çekerseniz RollApp durur ve 🧨 🧨 🧨
+
+* Yaklaşık 3-4 saattir sorun yaşamamanız adına repo'yu en ince ayrıntısına kadar hazırlamaya çalıştım. Bir yıldız bırakırsanız sevinirim 🐅
+
+### Sunucu ve RollApp bilgilerini Repo için paylaşan  [Faro-Hanedanı'na](https://t.me/imgelem0) teşekkür ederim.
+
+# Bugün yeni bir telegram topluluğu kurdum ve desteklerinizi bekliyorum. [TIGERNODE](https://t.me/tigernode) 🐅
