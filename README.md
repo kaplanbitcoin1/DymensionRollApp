@@ -318,7 +318,15 @@ roller rollapp services load
 roller rollapp services start
 ```
 
-# Status kontrol için. 
+# Status kontrol için
+
 ```
 roller rollapp status
 ```
+
+* Çıktınız bu şekilde olmalı
+
+<img width="1086" alt="15" src="https://github.com/user-attachments/assets/be7ba2dc-f86c-4c30-ad65-41dcb819ba08">
+
+
+
