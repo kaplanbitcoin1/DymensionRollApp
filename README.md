@@ -62,7 +62,7 @@
 <img width="1273" alt="4" src="https://github.com/user-attachments/assets/b8720080-6337-4186-850e-24b97e977cee">
 
 
-### Gerenate ettikten sonra son olarak Permissionless bölümü aktif olacak şekilde Set edelim.
+### Gerenate ettikten sonra son olarak Permissionless bölümü aktif olacak Set kısmından kurulumu sağlayalım.
 
 <img width="1504" alt="5" src="https://github.com/user-attachments/assets/8bffce1a-cbe7-4ed2-aee7-085dde4f298f">
 
