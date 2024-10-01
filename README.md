@@ -329,6 +329,19 @@ roller rollapp status
 <img width="1086" alt="15" src="https://github.com/user-attachments/assets/be7ba2dc-f86c-4c30-ad65-41dcb819ba08">
 
 
+# RPC kontol etmek için
+
+
+```
+curl RPCADRESİN/health
+```
+
+# Çıktı bu şekildeyse Endpoint'ler şıkır şıkır 😁
+
+<img width="620" alt="RPC" src="https://github.com/user-attachments/assets/da578b43-e3d2-4b87-9698-f1c3541d0bf7">
+
+
+
 # Relayer kurulum
 
 
