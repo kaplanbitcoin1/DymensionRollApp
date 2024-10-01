@@ -212,7 +212,7 @@ sudo rm -rf "/tmp/roller_tmp"
 echo "💈 Installation complete! You can now use roller from your terminal."
 ```
 
-# Scprict'i çalıştıralım
+# Script'i çalıştıralım
 ```
 bash install.sh
 ```
