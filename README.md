@@ -233,3 +233,13 @@ roller rollapp init
 <img width="1166" alt="8" src="https://github.com/user-attachments/assets/8fcf8813-5d3b-4533-b129-b4e834fbad55">
 
 
+
+### Rpc, Api ve Evm iletişimi için Telebit kuralım. 
+# Mail adresi yazdıktan sonra size bir şifre verecek.
+# Mailinizi kontrol edin ve VPN ile linke giriş yapın. Sunucunuzda size verilen şifreyi yazın ve onaylayın.
+
+```
+curl https://get.telebit.io/ | bash
+```
+
+
