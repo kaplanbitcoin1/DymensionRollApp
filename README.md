@@ -433,7 +433,7 @@ roller eibc funds
 <img width="1518" alt="20" src="https://github.com/user-attachments/assets/8439333f-794b-493e-8a62-b768c0579ebb">
 
 
-### Transfer işlemi sonra History bölümünde görseldeki gibi Success aldıysanız Pool eklememiz gerekiyor.
+### Transfer işlemi sonrası History bölümünde görseldeki gibi Success aldıysanız Pool eklemeniz gerekiyor.
 
 <img width="1536" alt="transfer" src="https://github.com/user-attachments/assets/5516074f-a108-4885-a087-09aedc674b8a">
 
