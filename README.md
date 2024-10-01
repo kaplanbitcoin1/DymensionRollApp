@@ -69,7 +69,7 @@
 
 <img width="1536" alt="6" src="https://github.com/user-attachments/assets/ed0ab1f1-90e4-4773-a82a-d14ee796550e">
 
-# Çayınızı, kahvenizi aldıysanız artık kuruluma başlayabiliriz 🧨
+### Çayınızı, kahvenizi aldıysanız artık kuruluma başlayabiliriz 🧨
 
 
 # Sunucu güncelleyelim
