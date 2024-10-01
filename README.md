@@ -216,3 +216,12 @@ echo "💈 Installation complete! You can now use roller from your terminal."
 ```
 bash install.sh
 ```
+
+
+# RollApp'i başlatalım
+
+```
+roller rollapp init
+```
+
+
