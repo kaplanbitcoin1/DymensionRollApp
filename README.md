@@ -32,7 +32,11 @@
 
 
 # Token bulduktan sonra işlemlere başlayalım. 
+
 ### Deploy a RollApp kısmına tıklayıp ilgili kısımları dolduruyoruz.
+
+* Domain'i uzun tutalım yoksa 20 DYM isteyecektir. RollApp id kısmına dokunmayın, Domain yazınca otomatik oluşacaktır.
+* Diğer bilgierinizi de doldurduktan sonra Register edelim. 
 
 <img width="1536" alt="1" src="https://github.com/user-attachments/assets/a746c225-6940-40f2-821f-5622b4716e84">
 
