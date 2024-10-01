@@ -175,5 +175,8 @@ go version
 wget https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh 
 ```
 
+# install.sh içerisine girelim.
 
-
+```
+nano install.sh
+```
