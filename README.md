@@ -8,7 +8,7 @@
 [Celestia](https://discord.com/invite/YsnTPcSfWQ)<br>
 
 [YeniTopluluk-Kanalı](https://t.me/tigernode)<br>
-
+[Hetzner 20€ cloud kredisi almak için](https://hetzner.cloud/?ref=jKRRgwoTGnE8)<br>
 
 # Sistem Gereksinimleri
 | Bileşenler	 | Tavsiye Gereksinimler | 
