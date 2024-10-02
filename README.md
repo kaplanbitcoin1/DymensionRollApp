@@ -485,7 +485,6 @@ roller eibc services restart
 
 ### Loglar için
 
-
 ```
 journalctl -fu relayer
 ```
