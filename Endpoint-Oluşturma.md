@@ -141,7 +141,7 @@ sudo ln -s /snap/bin/certbot /usr/bin/certbot
 sudo snap set certbot trust-plugin-with-root=ok
 ```
 
-### SSL Serfitikası alalım. Yes diyelim ve Enter. (Biraz bekletiyor, çıkış yapmayın)
+### SSL Sertifikası alalım. Yes diyelim ve Enter. (Biraz bekletiyor, çıkış yapmayın)
 
 ```
 sudo certbot --nginx --register-unsafely-without-email
