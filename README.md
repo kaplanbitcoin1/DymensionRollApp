@@ -174,7 +174,7 @@ curl https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh | bas
 ```
 
 
-# Version `1.9.0-alpha-rc13` olmalı
+# Version `1.9.0-alpha-rc14-hotfix1` olmalı
 ```
 roller version
 ```
