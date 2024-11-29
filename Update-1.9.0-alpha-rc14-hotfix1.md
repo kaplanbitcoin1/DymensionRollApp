@@ -1,5 +1,5 @@
 
-* Service'i durduralım
+* Serviceleri durduralım
 
 ```
 roller rollapp services stop  
@@ -13,7 +13,7 @@ roller eibc services stop
 curl https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh | bash 
 ```
   
-* Service tekrar başlatma
+* Serviceleri tekrar başlatalım
 
 ```
 roller rollapp services start  
