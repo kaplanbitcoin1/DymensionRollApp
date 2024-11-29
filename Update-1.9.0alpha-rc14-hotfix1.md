@@ -17,7 +17,7 @@ curl https://raw.githubusercontent.com/dymensionxyz/roller/main/install.sh | bas
 roller rollapp services start 
 ```
 
-* Version kontrol (1.6.4 Alpha olmalı)
+* Version kontrol (1.9.0-alpha-rc14-hotfix1)
 
 ```
 roller version
