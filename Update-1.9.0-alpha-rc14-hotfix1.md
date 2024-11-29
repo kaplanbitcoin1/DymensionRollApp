@@ -2,7 +2,9 @@
 * Service'i durduralım
 
 ```
-roller rollapp services stop 
+   roller rollapp services stop  
+   roller relayer services stop  
+   roller eibc services stop 
 ```
 
 * Github'tan son sürümü çekelim
