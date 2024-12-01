@@ -350,20 +350,6 @@ roller eibc init
 
 # Şimdi sırasıyla
 
-### ROLLAPPID kısmını kendi bilginizle değiştirin 
-
-```
-roller eibc fulfill rollapps set SENİNROLLAPPID 0.01
-```
-
-### TOKENSEMBOL bölümünü kendi bilginizle değiştirin.
-### Hatırlarsanız ben kurulum aşamasında `BER` olarak belirlemiştim.
-
-
-```
-roller eibc fulfill denoms set TOKENSEMBOL 0.01
-```
-
 # eIBC'yi service ile çalıştıralım
 
 ```
