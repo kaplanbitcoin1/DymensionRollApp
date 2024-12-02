@@ -236,7 +236,7 @@ curl https://get.telebit.io/ | bash
 
 # Kurulumu başlatıp `Sequencer` seçiyoruz ve token adedi gösterecek. 
 # 1 defa Enter'a basıyoruz ve size Sequencer adresinizi verecek. 
-# Buraya 11 adet Dym gönderin ve Explorer üzerinden gelip gelmediğini kontrol edin. 
+# Buraya 31 adet Dym gönderin ve Explorer üzerinden gelip gelmediğini kontrol edin. 
 # Token geldiyse sunucuya dönüp sadece `Y` tuşuna basın.
 
 ```
