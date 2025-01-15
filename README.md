@@ -7,7 +7,7 @@
 [Explorer](https://pg.dym.fyi/)<br>
 [Celestia](https://discord.com/invite/YsnTPcSfWQ)<br>
 
-[YeniToplulukKanalı](https://t.me/tigernode)<br>
+[YeniToplulukKanalı](https://t.me/tigernode)<br> 
 
 # Sistem Gereksinimleri
 | Bileşenler	 | Tavsiye Gereksinimler | 
